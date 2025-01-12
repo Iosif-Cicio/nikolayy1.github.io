@@ -26,7 +26,7 @@ Our app's primary use case is tracking household chores - keeping tabs on what's
 
 
 ### Wireframe
-![Mock](https://github.com/user-attachments/assets/222dad7b-b5f4-4807-9e83-a2089618bc04)
+![Mock](https://github.com/user-attachments/assets/be28f709-010d-4b09-b2bf-691f15484e05)
 
 ### User Flow
-![User Flow](https://github.com/user-attachments/assets/3b63333f-e42a-4acd-ae57-8222ec6a5863)
+![User Flow](https://github.com/user-attachments/assets/c42078e1-d8ac-4a2d-add8-c827facc680a)
