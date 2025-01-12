@@ -29,4 +29,4 @@ Our app's primary use case is tracking household chores - keeping tabs on what's
 ![Mock](https://github.com/user-attachments/assets/d80411bb-39bb-4a10-88be-6e73c7222659)
 
 ### User Flow
-![User Flow](https://github.com/user-attachments/assets/3af3d82d-fd49-4dc7-923a-f64d4af78d4d)
+![User Flow](https://github.com/user-attachments/assets/d553b0f3-e6f2-4480-a175-8d1cc675fb02)
